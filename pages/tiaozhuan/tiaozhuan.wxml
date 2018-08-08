@@ -1,0 +1,6 @@
+<!--pages/tiaozhuan/tiaozhuan.wxml-->
+
+<view style="text-align:center"> 最终得分{{defen}} </view>
+<view style="text-align:center"> 本关共{{index}}题 </view>
+
+<button bindtap="gotonext">下一关</button>
